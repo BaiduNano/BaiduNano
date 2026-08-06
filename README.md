@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I build robust desktop applications and immersive games, working close to the metal with high-performance languages and exploring modern architecture patterns.
+I make desktop applications and games, sometimes working with the high-performance languages and exploring modern architecture patterns.
 
 * 🖥️ **Desktop App Development:** Qt / C++
 * 🎮 **Game Development:** C++, GDScript (Godot)
