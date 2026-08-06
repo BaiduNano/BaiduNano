@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Baidu!
+# Baidu
 
 > **Desktop app developer and game developer**
 
