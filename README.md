@@ -4,8 +4,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
 I make desktop applications and games, sometimes working with the high-performance languages and exploring modern architecture patterns.
 
 * 🖥️ **Desktop App Development:** Qt / C++
@@ -14,7 +12,7 @@ I make desktop applications and games, sometimes working with the high-performan
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | --- | --- |
