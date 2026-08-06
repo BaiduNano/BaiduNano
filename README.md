@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I'm Baidu!
 
-<!--
-**BaiduNano/BaiduNano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Desktop app developer and game developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I build robust desktop applications and immersive games, working close to the metal with high-performance languages and exploring modern architecture patterns.
+
+* 🖥️ **Desktop App Development:** Qt / C++
+* 🎮 **Game Development:** C++, GDScript (Godot)
+* 🌱 **Currently Learning:** Bevy (Rust)
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | C++, Rust, Python, GDScript |
+| **Frameworks & Engines** | Qt, Bevy, Godot |
+| **Scripting & Automation** | Python |
+
+---
+
