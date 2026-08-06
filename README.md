@@ -18,7 +18,7 @@ I make desktop applications and games, sometimes working with the high-performan
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | C++, Rust, Python, GDScript |
+| **Languages** | C++, Rust, GDScript |
 | **Frameworks & Engines** | Qt, Bevy, Godot |
 | **Scripting & Automation** | Python |
 
